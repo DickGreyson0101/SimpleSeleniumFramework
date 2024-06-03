@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Selenium_Day2\TestFrameworkCore\bin\Debug\net6.0\TestFrameworkCore.deps.json
+C:\Users\ASUS\source\repos\Selenium_Day2\TestFrameworkCore\bin\Debug\net6.0\TestFrameworkCore.dll
+C:\Users\ASUS\source\repos\Selenium_Day2\TestFrameworkCore\bin\Debug\net6.0\TestFrameworkCore.pdb
+C:\Users\ASUS\source\repos\Selenium_Day2\TestFrameworkCore\obj\Debug\net6.0\TestFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Selenium_Day2\TestFrameworkCore\obj\Debug\net6.0\TestFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Selenium_Day2\TestFrameworkCore\obj\Debug\net6.0\TestFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Selenium_Day2\TestFrameworkCore\obj\Debug\net6.0\TestFrameworkCore.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Selenium_Day2\TestFrameworkCore\obj\Debug\net6.0\TestFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Selenium_Day2\TestFrameworkCore\obj\Debug\net6.0\TestFrameworkCore.dll
+C:\Users\ASUS\source\repos\Selenium_Day2\TestFrameworkCore\obj\Debug\net6.0\refint\TestFrameworkCore.dll
+C:\Users\ASUS\source\repos\Selenium_Day2\TestFrameworkCore\obj\Debug\net6.0\TestFrameworkCore.pdb
+C:\Users\ASUS\source\repos\Selenium_Day2\TestFrameworkCore\obj\Debug\net6.0\ref\TestFrameworkCore.dll

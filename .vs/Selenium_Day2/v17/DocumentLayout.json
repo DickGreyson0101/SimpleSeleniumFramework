@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\selenium_day2\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|solutionrelative:selenium_day2\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\selenium_day2\\page\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|solutionrelative:selenium_day2\\page\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\selenium_day2\\page\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|solutionrelative:selenium_day2\\page\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\selenium_day2\\test\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|solutionrelative:selenium_day2\\test\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4A6A3F-9AC5-4A0A-86A2-669DA04DB3D3}|APITesting\\APITesting.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\apitesting\\test\\userapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4A6A3F-9AC5-4A0A-86A2-669DA04DB3D3}|APITesting\\APITesting.csproj|solutionrelative:apitesting\\test\\userapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4A6A3F-9AC5-4A0A-86A2-669DA04DB3D3}|APITesting\\APITesting.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\apitesting\\model\\createuserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4A6A3F-9AC5-4A0A-86A2-669DA04DB3D3}|APITesting\\APITesting.csproj|solutionrelative:apitesting\\model\\createuserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4A6A3F-9AC5-4A0A-86A2-669DA04DB3D3}|APITesting\\APITesting.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\apitesting\\model\\createuserresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4A6A3F-9AC5-4A0A-86A2-669DA04DB3D3}|APITesting\\APITesting.csproj|solutionrelative:apitesting\\model\\createuserresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4A6A3F-9AC5-4A0A-86A2-669DA04DB3D3}|APITesting\\APITesting.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\apitesting\\model\\getusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4A6A3F-9AC5-4A0A-86A2-669DA04DB3D3}|APITesting\\APITesting.csproj|solutionrelative:apitesting\\model\\getusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4A6A3F-9AC5-4A0A-86A2-669DA04DB3D3}|APITesting\\APITesting.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\apitesting\\testhost.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1C4A6A3F-9AC5-4A0A-86A2-669DA04DB3D3}|APITesting\\APITesting.csproj|solutionrelative:apitesting\\testhost.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D21AEC-0BE0-4DF3-8BB7-6603461C4669}|TestFrameworkCore\\TestFrameworkCore.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\testframeworkcore\\helper\\report\\reporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D21AEC-0BE0-4DF3-8BB7-6603461C4669}|TestFrameworkCore\\TestFrameworkCore.csproj|solutionrelative:testframeworkcore\\helper\\report\\reporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\selenium_day2\\test\\assemblytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|solutionrelative:selenium_day2\\test\\assemblytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6818772-D667-47F1-9B13-A32D8D6649AE}|WebDriverHelper\\WebDriverHelper.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\webdriverhelper\\helper\\driverfactoryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6818772-D667-47F1-9B13-A32D8D6649AE}|WebDriverHelper\\WebDriverHelper.csproj|solutionrelative:webdriverhelper\\helper\\driverfactoryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D21AEC-0BE0-4DF3-8BB7-6603461C4669}|TestFrameworkCore\\TestFrameworkCore.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\testframeworkcore\\helper\\report\\reporthelperextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D21AEC-0BE0-4DF3-8BB7-6603461C4669}|TestFrameworkCore\\TestFrameworkCore.csproj|solutionrelative:testframeworkcore\\helper\\report\\reporthelperextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\selenium_day2\\testhost.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|solutionrelative:selenium_day2\\testhost.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873656B3-59C1-43EA-95D6-F913FA1C3A24}|DemoAlertiframe\\DemoAlertiframe.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\demoalertiframe\\demoalertiframe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{873656B3-59C1-43EA-95D6-F913FA1C3A24}|DemoAlertiframe\\DemoAlertiframe.csproj|solutionrelative:demoalertiframe\\demoalertiframe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\selenium_day2\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EAAE65-1081-4A11-AFE4-54F148E0AB29}|Selenium_Day2\\Selenium_Day2.csproj|solutionrelative:selenium_day2\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D21AEC-0BE0-4DF3-8BB7-6603461C4669}|TestFrameworkCore\\TestFrameworkCore.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\testframeworkcore\\helper\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D21AEC-0BE0-4DF3-8BB7-6603461C4669}|TestFrameworkCore\\TestFrameworkCore.csproj|solutionrelative:testframeworkcore\\helper\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873656B3-59C1-43EA-95D6-F913FA1C3A24}|DemoAlertiframe\\DemoAlertiframe.csproj|d:\\onedrive\\phanthilinh\\selenium_day2-20240530t150024z-001\\selenium_day2\\demoalertiframe\\alerttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873656B3-59C1-43EA-95D6-F913FA1C3A24}|DemoAlertiframe\\DemoAlertiframe.csproj|solutionrelative:demoalertiframe\\alerttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAPITest.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\APITesting\\Test\\UserAPITest.cs",
+              "RelativeDocumentMoniker": "APITesting\\Test\\UserAPITest.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\APITesting\\Test\\UserAPITest.cs",
+              "RelativeToolTip": "APITesting\\Test\\UserAPITest.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:59:58.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "testhost.dll.config",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\APITesting\\testhost.dll.config",
+              "RelativeDocumentMoniker": "APITesting\\testhost.dll.config",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\APITesting\\testhost.dll.config",
+              "RelativeToolTip": "APITesting\\testhost.dll.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-31T02:57:56.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportHelper.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\TestFrameworkCore\\Helper\\Report\\ReportHelper.cs",
+              "RelativeDocumentMoniker": "TestFrameworkCore\\Helper\\Report\\ReportHelper.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\TestFrameworkCore\\Helper\\Report\\ReportHelper.cs",
+              "RelativeToolTip": "TestFrameworkCore\\Helper\\Report\\ReportHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:04:05.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\Test\\LoginTest.cs",
+              "RelativeDocumentMoniker": "Selenium_Day2\\Test\\LoginTest.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\Test\\LoginTest.cs",
+              "RelativeToolTip": "Selenium_Day2\\Test\\LoginTest.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAASwEwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:39:14.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\Test\\BaseTest.cs",
+              "RelativeDocumentMoniker": "Selenium_Day2\\Test\\BaseTest.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\Test\\BaseTest.cs",
+              "RelativeToolTip": "Selenium_Day2\\Test\\BaseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:40:32.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\Page\\BasePage.cs",
+              "RelativeDocumentMoniker": "Selenium_Day2\\Page\\BasePage.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\Page\\BasePage.cs",
+              "RelativeToolTip": "Selenium_Day2\\Page\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:37:34.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\Page\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Selenium_Day2\\Page\\LoginPage.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\Page\\LoginPage.cs",
+              "RelativeToolTip": "Selenium_Day2\\Page\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:51:36.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetUserModel.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\APITesting\\Model\\GetUserModel.cs",
+              "RelativeDocumentMoniker": "APITesting\\Model\\GetUserModel.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\APITesting\\Model\\GetUserModel.cs",
+              "RelativeToolTip": "APITesting\\Model\\GetUserModel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:36:21.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserRequestModel.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\APITesting\\Model\\CreateUserRequestModel.cs",
+              "RelativeDocumentMoniker": "APITesting\\Model\\CreateUserRequestModel.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\APITesting\\Model\\CreateUserRequestModel.cs",
+              "RelativeToolTip": "APITesting\\Model\\CreateUserRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:03:50.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserResponseModel.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\APITesting\\Model\\CreateUserResponseModel.cs",
+              "RelativeDocumentMoniker": "APITesting\\Model\\CreateUserResponseModel.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\APITesting\\Model\\CreateUserResponseModel.cs",
+              "RelativeToolTip": "APITesting\\Model\\CreateUserResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:10:47.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyTest.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\Test\\AssemblyTest.cs",
+              "RelativeDocumentMoniker": "Selenium_Day2\\Test\\AssemblyTest.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\Test\\AssemblyTest.cs",
+              "RelativeToolTip": "Selenium_Day2\\Test\\AssemblyTest.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:59:39.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DriverFactoryHelper.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\WebDriverHelper\\Helper\\DriverFactoryHelper.cs",
+              "RelativeDocumentMoniker": "WebDriverHelper\\Helper\\DriverFactoryHelper.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\WebDriverHelper\\Helper\\DriverFactoryHelper.cs",
+              "RelativeToolTip": "WebDriverHelper\\Helper\\DriverFactoryHelper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIBJwBQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:35:40.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportHelperExtension.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\TestFrameworkCore\\Helper\\Report\\ReportHelperExtension.cs",
+              "RelativeDocumentMoniker": "TestFrameworkCore\\Helper\\Report\\ReportHelperExtension.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\TestFrameworkCore\\Helper\\Report\\ReportHelperExtension.cs",
+              "RelativeToolTip": "TestFrameworkCore\\Helper\\Report\\ReportHelperExtension.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:26:15.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "testhost.dll.config",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\testhost.dll.config",
+              "RelativeDocumentMoniker": "Selenium_Day2\\testhost.dll.config",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\testhost.dll.config",
+              "RelativeToolTip": "Selenium_Day2\\testhost.dll.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-30T04:03:43.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConfigurationHelper.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\TestFrameworkCore\\Helper\\ConfigurationHelper.cs",
+              "RelativeDocumentMoniker": "TestFrameworkCore\\Helper\\ConfigurationHelper.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\TestFrameworkCore\\Helper\\ConfigurationHelper.cs",
+              "RelativeToolTip": "TestFrameworkCore\\Helper\\ConfigurationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:42:15.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DemoAlertiframe.csproj",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\DemoAlertiframe\\DemoAlertiframe.csproj",
+              "RelativeDocumentMoniker": "DemoAlertiframe\\DemoAlertiframe.csproj",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\DemoAlertiframe\\DemoAlertiframe.csproj",
+              "RelativeToolTip": "DemoAlertiframe\\DemoAlertiframe.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T07:35:24.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AlertTest.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\DemoAlertiframe\\AlertTest.cs",
+              "RelativeDocumentMoniker": "DemoAlertiframe\\AlertTest.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\DemoAlertiframe\\AlertTest.cs",
+              "RelativeToolTip": "DemoAlertiframe\\AlertTest.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:16:33.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "Selenium_Day2\\Model\\UserModel.cs",
+              "ToolTip": "D:\\OneDrive\\PhanThiLinh\\Selenium_Day2-20240530T150024Z-001\\Selenium_Day2\\Selenium_Day2\\Model\\UserModel.cs",
+              "RelativeToolTip": "Selenium_Day2\\Model\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T05:00:08.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
